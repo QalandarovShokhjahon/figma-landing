@@ -5,6 +5,10 @@ a {
     text-decoration: none;
 }
 
-h1 {
+h1, h2 {
     font-family: "Syne", sans-serif;
+}
+
+p {
+    color: #454545;
 }
