@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Syne:wght@400..800&display=swap');
 
 a {
     text-decoration: none;
@@ -9,6 +10,10 @@ h1, h2 {
     font-family: "Syne", sans-serif;
 }
 
-p {
-    color: #454545;
+p, span {
+    color: #532C59;
+}
+
+h3 {
+    font-family: "Space Grotesk", sans-serif;
 }
