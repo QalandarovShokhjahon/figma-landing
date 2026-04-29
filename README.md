@@ -19,4 +19,4 @@ Designed in Figma and converted into code.
 👉 https://qalandarovshokhjahon.github.io/figma-landing/
 
 ## 👨‍💻 Author
-Shokhjahon
+Shokhjahon Qalandarov
