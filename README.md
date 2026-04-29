@@ -16,7 +16,7 @@ This project is a modern and responsive landing page built using **HTML** and **
 Designed in Figma and converted into code.
 
 ## 🚀 Live Demo
-👉 https://your-site-link.com
+👉 https://qalandarovshokhjahon.github.io/figma-landing/
 
 ## 👨‍💻 Author
 Shokhjahon
